@@ -1,0 +1,4 @@
+python3 mask_sent_data.py norand dev_data/mask_sent_dev_norand_false.json False
+python3 mask_sent_data.py norand dev_data/mask_sent_dev_norand_true.json True
+python3 mask_sent_data.py random dev_data/mask_sent_dev_random_false.json False
+python3 mask_sent_data.py random dev_data/mask_sent_dev_random_true.json True
